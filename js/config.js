@@ -7,7 +7,7 @@
 // Apenas números, sem caracteres especiais como +, -, parênteses ou espaços.
 // Exemplo: "5582996960094"
 // Deixe vazio ("") para simular o comportamento de corretor não configurado.
-export const WHATSAPP_NUMBER = "5582996960094";
+export const WHATSAPP_NUMBER = "5582988682195";
 
 // Informações institucionais
 export const BROKER_INFO = {
